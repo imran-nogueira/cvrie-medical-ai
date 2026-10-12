@@ -1,6 +1,4 @@
-# CVRIE — Medical AI on Patient Testimonials & Skin Lesions
-
-> Unsupervised clustering of 1,011 unlabeled patient testimonials, paired with a supervised skin-lesion classifier — classic machine learning, end to end.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="CVRIE — Unsupervised clustering of patient testimonials and supervised skin-lesion classification." src="assets/banner-light.png"></picture>
 
 **Epitech Bachelor · Year 2 · Machine Learning (B-SPE-311) · Sep 2026**
 Source code is private under Epitech's academic policy. Happy to walk you through the notebooks or demo it live → **imran.nogueira@gmail.com**
